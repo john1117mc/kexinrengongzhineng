@@ -1,0 +1,16 @@
+# 大文件，不入库
+models/
+dataset_cache/
+.venv/
+results/*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# 编辑器
+.vscode/
+.idea/
+.git_upstream/
